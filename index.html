@@ -6,34 +6,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/style.css" />
     <title>Omnifood Project</title>
-    <style>
-      * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-      }
-    </style>
   </head>
   <body>
     <header>
-      <img src="img/omnifood-logo.png" alt="Logo Omnifood" />
-      <nav>
-        <ul>
-          <li><a class="link" href="#">How it works</a></li>
-          <li><a class="link" href="#">Meals</a></li>
-          <li><a class="link" href="#">Testimonials</a></li>
-          <li><a class="link" href="">Try for free</a></li>
-        </ul>
-      </nav>
-      <section>
-        <h1 class="">
-          A healthy meal delivered to your door, every single day
-        </h1>
-        <p class="">
+      <div class="nav-bar">
+        <img src="img/omnifood-logo.png" alt="Logo Omnifood" />
+        <nav class="navigation">
+          <ul>
+            <li><a class="link" href="#">How it works</a></li>
+            <li><a class="link" href="#">Meals</a></li>
+            <li><a class="link" href="#">Testimonials</a></li>
+            <li><a class="link" href="">Try for free</a></li>
+          </ul>
+        </nav>
+      </div>
+      <section class="header">
+        <h1>A healthy meal delivered to your door, every single day</h1>
+        <p>
           The smart 365-days-per-year food subscription that will make you eat
           healthy again. Tailored to your personal tastes and nutritional needs.
         </p>
-        <button class="btn"></button>
+        <button class="header-button">Start eating well</button>
+        <button>
+          Learn more
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M15.75 17.25L12 21m0 0l-3.75-3.75M12 21V3"
+            />
+          </svg>
+        </button>
+        <div class="container-customers">
+          <img src="img/customers/customer-1.jpg" alt="" />
+          <img src="img/customers/customer-2.jpg" alt="" />
+          <img src="img/customers/customer-3.jpg" alt="" />
+          <img src="img/customers/customer-4.jpg" alt="" />
+          <img src="img/customers/customer-5.jpg" alt="" />
+          <img src="img/customers/customer-6.jpg" alt="" />
+        </div>
       </section>
     </header>
   </body>
