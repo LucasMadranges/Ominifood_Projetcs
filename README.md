@@ -34,7 +34,7 @@ In this section, I have to find ideas for the project. Here different design you
 - [Screenlane](https://screenlane.com/)
 - [Dribble](https://dribbble.com/)
 
-For this project, Jonas, the author of the course, has a differents ideas :
+For this project, Jonas, the author of the course, has differents ideas :
 
 ![Image of the different components and the plan for the project](img/github/Step3.png)
 
