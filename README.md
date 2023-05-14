@@ -44,6 +44,6 @@ For this project, Jonas, the author of the course, has a differents ideas :
 
 ![Image of the different ideas for the hero section with the plan](img/github/Step4.1.png)
 
-### 4.2 : How-it-works section
+#### 4.2 : How-it-works section
 
 ![Image of the different Ideas for the how-it-works section with the plan](img/github/Step4.2.png)
