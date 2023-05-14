@@ -6,53 +6,105 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/style.css" />
     <title>Omnifood Project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;0,600;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <header>
-      <div class="nav-bar">
-        <img src="img/omnifood-logo.png" alt="Logo Omnifood" />
-        <nav class="navigation">
-          <ul>
-            <li><a class="link" href="#">How it works</a></li>
-            <li><a class="link" href="#">Meals</a></li>
-            <li><a class="link" href="#">Testimonials</a></li>
-            <li><a class="link" href="">Try for free</a></li>
-          </ul>
-        </nav>
-      </div>
-      <section class="header">
-        <h1>A healthy meal delivered to your door, every single day</h1>
-        <p>
-          The smart 365-days-per-year food subscription that will make you eat
-          healthy again. Tailored to your personal tastes and nutritional needs.
-        </p>
-        <button class="header-button">Start eating well</button>
-        <button>
-          Learn more
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="w-6 h-6"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M15.75 17.25L12 21m0 0l-3.75-3.75M12 21V3"
+    <header class="header">
+      <img
+        src="img/omnifood-logo.png"
+        alt="omnifood-logo"
+        class="omnifood-logo"
+      />
+      <nav class="main-nav">
+        <ul class="main-nav-list">
+          <li><a href="#" class="main-nav-link">Section 1</a></li>
+          <li><a href="#" class="main-nav-link">Section 2</a></li>
+          <li><a href="#" class="main-nav-link">Section 3</a></li>
+          <li><a href="#" class="main-nav-link">Section 4</a></li>
+          <li><a href="#" class="main-nav-link nav-cta">Section 5</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section-hero">
+        <div class="hero">
+          <div class="hero-text-box">
+            <h1 class="heading-primary">
+              A healthy meal delivered to your door, every single day
+            </h1>
+            <p class="hero-description">
+              The smart 365-days-per-year food subscription that will make you
+              eat healthy again. Tailored to your personal tastes and
+              nutritional needs.
+            </p>
+            <a href="#" class="btn btn--full margin-right-sm"
+              >Start eating well</a
+            >
+            <a href="#" class="btn btn--outline margin-right-sm"
+              >Learn more &darr;</a
+            >
+            <div class="delivered-meals">
+              <div class="delivered-img">
+                <img
+                  src="img/customers/customer-1.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+                <img
+                  src="img/customers/customer-2.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+                <img
+                  src="img/customers/customer-3.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+                <img
+                  src="img/customers/customer-4.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+                <img
+                  src="img/customers/customer-5.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+                <img
+                  src="img/customers/customer-6.jpg"
+                  alt="Customer photo"
+                  class="customer-img"
+                />
+              </div>
+              <p class="delivered-text">
+                <span>250,000+</span> meals delivered last year!
+              </p>
+            </div>
+          </div>
+          <div class="hero-image-box">
+            <img
+              src="img/hero.png"
+              alt="Woman enjoying food, meals in storage meals in storage container, and food bolws on a table"
+              class="hero-img"
             />
-          </svg>
-        </button>
-        <div class="container-customers">
-          <img src="img/customers/customer-1.jpg" alt="" />
-          <img src="img/customers/customer-2.jpg" alt="" />
-          <img src="img/customers/customer-3.jpg" alt="" />
-          <img src="img/customers/customer-4.jpg" alt="" />
-          <img src="img/customers/customer-5.jpg" alt="" />
-          <img src="img/customers/customer-6.jpg" alt="" />
+          </div>
         </div>
       </section>
-    </header>
+
+      <section class="section-how">
+        <div class="container grid grid--2-cols">
+          <div>Test 1</div>
+          <div>Test 2</div>
+          <div>Test 3</div>
+          <div>Test 4</div>
+        </div>
+      </section>
+    </main>
   </body>
 </html>

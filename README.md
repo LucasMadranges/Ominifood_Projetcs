@@ -8,7 +8,7 @@ Project made with the [Build Responsive Real-World Websites with HTML and CSS co
 
 ## Every Step for build this WebSite
 
-In this section, I talk about the steps I learn for create the project.
+In this section, I talk about the steps I learn for create the project. This repository in principaly for help me in the future, but you can use it to help you as well.
 
 ### Step 1 : Defining the project
 
@@ -24,7 +24,7 @@ In this section, I talk about the steps I learn for create the project.
 - Plan out the sitemap : It's just a one-page marketing website (landing page), so no sitemap here.
 - Define website personality : Based on the tech-centered target audience, as well as the actual product being sold, we will use the **startup/upbeat personality. We might add some elements of the **calm/peaceful\*\* personality, since the product is all about consumer well-being as well. Here a link for all Website personality with all explanation [IPoint Blog](https://www.ipoint.com.mt/blog/website-personality-matters-see-which-one-is-perfect-for-you-and-why/)
 
-### Step 3 : Layout Ideas for the project
+### Step 3 : Layout ideas for the project
 
 In this section, I have to find ideas for the project. Here different design you can use for find ideas for a project :
 
@@ -35,4 +35,15 @@ In this section, I have to find ideas for the project. Here different design you
 - [Dribble](https://dribbble.com/)
 
 For this project, Jonas, the author of the course, has a differents ideas :
-![Image of the different components and the schéma for the project](img/github/Step3.png)
+
+![Image of the different components and the plan for the project](img/github/Step3.png)
+
+### Step 4 : Build the different part of the project
+
+#### 4.1 : Hero Section, header and navigation
+
+![Image of the different ideas for the hero section with the plan](img/github/Step4.1.png)
+
+### 4.2 : How-it-works section
+
+![Image of the different Ideas for the how-it-works section with the plan](img/github/Step4.2.png)
