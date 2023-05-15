@@ -40,10 +40,14 @@ For this project, Jonas, the author of the course, has differents ideas :
 
 ### Step 4 : Build the different part of the project
 
-#### 4.1 : Hero Section, header and navigation
+#### 4.1 : Hero section, Header and Navigation
 
 ![Image of the different ideas for the hero section with the plan](img/github/Step4.1.png)
 
-#### 4.2 : How-it-works section
+#### 4.2 : Featured-in section
 
-![Image of the different Ideas for the how-it-works section with the plan](img/github/Step4.2.png)
+![Image with multiple company logo who show the features of the company wityh a plan](img/github/Step4.2.png)
+
+#### 4.3 : How-it-works section
+
+![Image of the different Ideas for the how-it-works section with the plan](img/github/Step4.3.png)
