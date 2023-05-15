@@ -1,4 +1,4 @@
-# Ominifood_Project
+# Omnifood_Project
 
 **If you have some problems with the Website, Github Pages, Responsive or many more, please report them on the issues section of the Github repository [here](https://github.com/LucasMadranges/Omnifood_Project/issues). Thanks !**
 
