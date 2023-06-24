@@ -51,3 +51,7 @@ For this project, Jonas, the author of the course, has differents ideas :
 #### 4.3 : How-it-works section
 
 ![Image of the different Ideas for the how-it-works section with the plan](img/github/Step4.3.png)
+
+#### 4.4 : Meals + Diets section
+
+![Image of the different Ideas for the meals + diets section with the plan](img/github/Step4.4.png)
