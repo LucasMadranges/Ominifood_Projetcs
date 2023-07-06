@@ -39,6 +39,7 @@ Accents:
 Greys:
 - #555
 - #333
+- #6f6f6f (lightest grey allowed on #fdf2e9)
 
 --- 05 SHADOWS ---
 
@@ -52,6 +53,11 @@ Default:
 
 SPACING SYSTEM (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+--- 08 ANIMATION-TIMES ---
+
+- 0.3s
+- 0.4s
 
 */
 
