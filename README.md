@@ -59,3 +59,7 @@ For this project, Jonas, the author of the course, has differents ideas :
 #### 4.5 : Testimonials + gallery section
 
 ![Image of the different Ideas for the testimonials + gallery section with the plan](img/github/Step4.5.png)
+
+#### 4.6 : Pricing + features section
+
+![Image of the different Ideas for the pricing + features section with the plan](img/github/Step4.6.png)
