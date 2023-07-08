@@ -185,7 +185,10 @@ body {
   display: grid;
   gap: 9.6rem;
   row-gap: 6.4rem;
-  align-items: center;
+}
+
+.grid:not(:last-child) {
+  margin-bottom: 9.6rem;
 }
 
 /* -- signifie que c'est une dérivation de la class principal grid*/
