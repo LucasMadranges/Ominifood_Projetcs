@@ -63,3 +63,7 @@ For this project, Jonas, the author of the course, has differents ideas :
 #### 4.6 : Pricing + features section
 
 ![Image of the different Ideas for the pricing + features section with the plan](img/github/Step4.6.png)
+
+#### 4.7 : Call-to-action section
+
+![Image of the different Ideas for the call-to-action section with the plan](img/github/Step4.7.png)
