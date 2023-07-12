@@ -67,3 +67,7 @@ For this project, Jonas, the author of the course, has differents ideas :
 #### 4.7 : Call-to-action section
 
 ![Image of the different Ideas for the call-to-action section with the plan](img/github/Step4.7.png)
+
+#### 4.8 : Footer section
+
+![Image of the different Ideas for the footer section with the plan](img/github/Step4.8.png)
