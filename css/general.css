@@ -39,6 +39,8 @@ Shades:
 - #45260a
 Accents:
 Greys:
+- #888
+- #767676 (lightest grey allowed on #fff)
 - #555
 - #333
 - #6f6f6f (lightest grey allowed on #fdf2e9)
@@ -212,8 +214,8 @@ body {
 
 .grid {
   display: grid;
-  gap: 9.6rem;
-  row-gap: 6.4rem;
+  row-gap: 9.6rem;
+  column-gap: 6.4rem;
 }
 
 .grid:not(:last-child) {
