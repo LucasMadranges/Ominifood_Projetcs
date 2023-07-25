@@ -11,6 +11,9 @@
   /* BECAUSE WE WANT TO BE STICKY LATER */
   height: 9.6rem;
   padding: 0 4.8rem;
+
+  /* For fixed the problem with overflow-x for the mobile navigation */
+  position: relative;
 }
 
 .omnifood-logo {
